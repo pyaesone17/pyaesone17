@@ -8,3 +8,4 @@ Nice to meet you, I am just a programmer who is chasing infinite dreams. When i 
 - 📫 How to reach me: promise286@gmail.com
 - 😄 Pronouns: he/him:heart:
 - ⚡ Fun fact: Swimming is my favorite hobby but I can't swim properly
+- 🛠 Go, Nodejs, React, PHP 
